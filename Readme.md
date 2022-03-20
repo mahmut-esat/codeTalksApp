@@ -10,18 +10,18 @@
 - Icons
 
 # Login and SingUp page
-![](src/assets/screens/LogIn.jpg)
-![](src/assets/screens/SignUp.jpg)
-![](src/assets/screens/LogInError.jpg)
-![](src/assets/screens/LogInError3.jpg)
-![](src/assets/screens/SignUpError1.jpg)
+![](src/assets/screens/_LogIn.jpg)
+![](src/assets/screens/_SignUp.jpg)
+![](src/assets/screens/_LogInError.jpg)
+![](src/assets/screens/_LogInError3.jpg)
+![](src/assets/screens/_SignUpError1.jpg)
 
 # Rooms Page
-![](src/assets/screens/Rooms.jpg)
-![](src/assets/screens/EnterRoom.jpg)
+![](src/assets/screens/_Rooms.jpg)
+![](src/assets/screens/_EnterRoom.jpg)
 
 # Messages Page
 
-![](src/assets/screens/JSRoom1.jpg)
-![](src/assets/screens/JSRoom2.jpg)
-![](src/assets/screens/JSRoom3.jpg)
+![](src/assets/screens/_JSRoom1.jpg)
+![](src/assets/screens/_JSRoom2.jpg)
+![](src/assets/screens/_JSRoom3.jpg)
